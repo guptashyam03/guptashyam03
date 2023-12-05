@@ -3,7 +3,7 @@
 <br />
 
 
-Hi, I'm <a href="https://drive.google.com/file/d/1MOp7iKWWYwx3faC4QIaGQKf6ATc9hgiG/view?usp=sharing">[Aayush Mohan Saxena!]</a>, I am a Web Developer and Problem Solver🚀 from India. Currently in second year of my college.
+Hi, I'm <a>[Radhe Shyam Gupta!]</a>, I am a Web Developer and Problem Solver🚀 from India. Currently in Final year of my college.
 <br>
 <br/>
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/7209c12fa700f3f89c60f29b8cdc3dce27b1239e592fd36a3d3411e75746feb2/68747470733a2f2f692e696d6775722e636f6d2f4f544b674453742e676966" width="500" height="320" />
@@ -11,8 +11,6 @@ Hi, I'm <a href="https://drive.google.com/file/d/1MOp7iKWWYwx3faC4QIaGQKf6ATc9hg
 **Talking about Personal Stuffs:**
 - 👨🏽‍💻 I’m currently working on some projects that aims at solving real world problems.
 - 🌱I like competitive programming and taking part in programming challenges.
-- 👨🏽‍💻[University Website](https://aayushm-university.netlify.app/)
-- 👨🏽‍💻[Resume Demo]([https://aayush142001.github.io/ResumeDemo/Resume.html](https://drive.google.com/file/d/1MOp7iKWWYwx3faC4QIaGQKf6ATc9hgiG/view?usp=sharing))
 
 **Languages and Tools:**  
 
